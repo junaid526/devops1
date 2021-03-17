@@ -1,0 +1,135 @@
+@CHARSET "ISO-8859-1";
+@CHARSET "ISO-8859-1";
+{
+}
+@media screen and (min-width: 200px){
+.border_image{
+	border:1px solid black;
+	width:1500px;
+	height:500px;	
+	margin-right:-10px;
+	margin-left:auto;
+	margin-top:110px;
+	background-color:black;
+	opacity:0.4;
+	}
+	@CHARSET "ISO-8859-1";
+{
+}
+@media screen and (min-width: 200px){
+	.user_image{
+	background:url('../image/0002.jpg');
+	}
+	.admin_image{
+	background:url('../images/ad2.jpg');
+	width:1500px;
+	height:500px;
+	
+	}
+	.border_image{
+	border:1px solid black;
+	width:1500px;
+	height:500px;	
+	margin-right:-10px;
+	margin-left:auto;
+	margin-top:110px;
+	background-color:black;
+	opacity:0.4;
+	}
+	.rgb{
+	background:rgba(0,0,0,0.5);
+	}
+	.transparent{
+	background:rgba(0,0,0,0.5);
+	height:500px;
+	}
+	.user_reg{
+	background:url('../images/po.png');
+	}
+	.user_border{
+	border:1px solid black;
+	width:1500px;
+	height:650px;	
+	margin-right:auto;
+	margin-left:auto;
+	margin-top:40px;
+	background-color:black;
+	opacity:0.4;
+	
+	}
+	.user_body{
+	background:url('../images/us2.png');
+	height:800px;
+	background-repeat: no-repeat;
+	width:auto;
+	}
+	.border_sendrequest{
+	border:3px solid white;
+	width:80%;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:-10px;
+	background-color:green;
+	opacity:0.6;
+	}
+	.rgb{
+	background:rgba(0,0,0,0.5);
+	}
+	p.solid{
+	border-style: solid;
+	margin-left:400px;
+	padding-left:100px;
+	width: 700px;
+	height:600px;
+	background-color:white;
+	}
+	.check{
+	background:url('../images/3.jpg');
+	height:1500px;
+	width:3000px;
+	}
+	.ch{
+	padding-left:600px;
+	padding-top:200px;
+	}
+	.de{
+	background:url('../images/pli.jpg');
+	background-repeat: no-repeat;
+	height:1000px;
+	width:1500px;
+	}
+	.logo{
+	background:url('../images/logo.png');
+	}
+	.table{
+	padding-top:20px;
+	}
+	.comments{
+	border:4px solid black;
+	width:100%;
+	height:60px;	
+	margin-right:100px;
+	margin-left:350px;
+	margin-top:110px;
+	background-color:white;
+	opacity:1.9;
+	}
+	.back{
+	background-color:DarkCyan;
+	padding-top:10px;
+	height:auto;
+	width:auto;
+	}
+	.tags{
+	background-color:CornflowerBlue;
+	padding-top:10px;
+	height:620px;
+	width:auto;
+	}
+	.user_body2{
+	background:url('../images/us2.png');
+	height:auto;
+	width:auto;
+	
+	}
+	
